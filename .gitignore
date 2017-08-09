@@ -7,4 +7,7 @@ saved_models/weights.best.vgg16.hdf5
 bottleneck_features/DogVGG16Data.npz
 __MACOSX/
 lfw.zip
-
+bottleneck_features/*
+dogResNet.weights.best.hdf5
+saved_models/*
+ 
